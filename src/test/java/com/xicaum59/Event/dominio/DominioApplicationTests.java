@@ -1,10 +1,10 @@
-package com.xicaum59.Event;
+package com.xicaum59.Event.dominio;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class EventApplicationTests {
+class DominioApplicationTests {
 
 	@Test
 	void contextLoads() {
